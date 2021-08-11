@@ -1,6 +1,5 @@
 # tiny-yolov4-darknet-object-detection-custom-Training
 
-# yolov4-darknet-object-detection-custom-Training
 
 ![download](https://user-images.githubusercontent.com/78655282/128880791-374b1bee-94cb-4ff0-98a4-1dc150a2ed0d.png)
 

@@ -46,3 +46,6 @@ For real-time object detection, YOLOv4-tiny is the better option when compared w
   - Also, if your data does not have a label, you can use link [this link](https://github.com/tzutalin/labelImg) to label your data. In the given link, there is an app by which you can easily label the images and prepare for YOLO training.
 
 - Open the YOLOv4 Darknet notebook at the top and follow the steps mentioned in the notebook. This notebook is prepared to find the location of the screws in the image. An example of the image and output is as follows.
+
+
+![yolov4 out](https://user-images.githubusercontent.com/78655282/129019714-0bc4aa96-f666-4ff8-8841-499ca4c1399f.png)
